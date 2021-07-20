@@ -21,6 +21,7 @@ Objetivos Específicos
 
 # 3. Explicación y Resolución
 
+7.Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
 
 
 
