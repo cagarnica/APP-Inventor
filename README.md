@@ -17,7 +17,11 @@ Objetivos Específicos
 # 2. Marco Teórico
 
 
+
+
 # 3. Explicación y Resolución
+
+
 
 
 # 4. Video
