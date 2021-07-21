@@ -229,7 +229,7 @@ ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aume
 
 # 4. Video
 
-
+https://youtu.be/W3meJW3OvpE
 
 # 5. Conclusiones
 
