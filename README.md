@@ -40,6 +40,11 @@ que se indican, como se muestra en la figura 9-95.
 
 ![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.23.PNG)
 
+25. Encuentre el circuito equivalente de Norton externo a RL en el circuito de la
+figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
+
+ ![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.25.PNG)
+ 
 # 4. Video
 
 
