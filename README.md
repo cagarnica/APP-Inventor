@@ -27,7 +27,9 @@ Objetivos Específicos
 
 9.Repita el problema 7 para el circuito de la figura 9-83.
 
+19. Repita el problema 17 para el circuito de la figura 9-93
 
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio9.19.PNG)
 
 # 4. Video
 
