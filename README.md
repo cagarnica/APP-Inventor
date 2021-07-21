@@ -34,8 +34,11 @@ Teorema de superposición
 Aplicando el principio de Superposición
 
 I1= 100 mA – 25 mA = 75 mA (hacia arriba) 
+
 I2=100 mA – 25 mA = 75 mA (hacia abajo)
+
 I3=50 mA+ 37.5mA=87,5 mA (hacia la derecha)
+
  I3=50 mA -62,5 mA =-12,5 mA (Opuesto)
 
 3.Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
@@ -47,11 +50,15 @@ I3=50 mA+ 37.5mA=87,5 mA (hacia la derecha)
 Principio de Superposición 
 
 I60Ω = 56mA +28,5mA=84,5mA
+
 I10Ω=167mA+22mA=189mA
+
 I30Ω=111mA-733mA=103,67Ma
 
 Resultados 
+
 I1=I10=189mA
+
 Va=3,33V-0,22V=3,11V Polaridad Inversa
 
 
