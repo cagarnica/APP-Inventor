@@ -16,6 +16,10 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
     sistemas lineales.
     - Valorar la superposición en la resolución de circuitos lineales con
     fuentes de distinto carácter.
+    - Comprender el uso del teorema de Millman para poder resolver circuitos con varias fuentes de intensidad.
+    - Analizar circuitos electricos que tengan como elementos capacitores.
+    - Resolver circuitos que tengan fuentes de voltaje y capacitores.
+    
 
 
 
@@ -199,21 +203,6 @@ ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aume
 ![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.27.PNG)
 ![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.27.2.PNG)
 
-29. Un capacitor de 30 μF se conecta en paralelo con un capacitor de 60 μF, y
-otro de 10 μF se conecta en serie con la combinación en paralelo. ¿Cuál es el
-valor de CT?
-
-![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.29.PNG)
-
-31. Para la figura 10-36, determine C3 y C4
-
-![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.31.PNG)
-
-33. Se tienen capacitores de 22, 47, 2.2 y 10 μF. ¿Cuál es la capacitancia equivalente más grande 
-que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
-
-![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.33.PNG)
-
 35. Considere capacitores de 1, 1.5 y 10 μF. Si CT =10-6 μF, ¿cómo están conectados los capacitores?
 
 37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b
@@ -244,7 +233,7 @@ que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la má
 
 # 4. Video
 
-https://youtu.be/W3meJW3OvpE
+
 
 # 5. Conclusiones
 
