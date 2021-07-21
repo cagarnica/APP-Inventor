@@ -65,6 +65,10 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 ![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.31.PNG)
 
+33. Repita el problema 31 para el circuito de la figura 9-91
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.33.PNG)
+
 # 4. Video
 
 
