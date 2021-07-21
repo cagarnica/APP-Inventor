@@ -93,6 +93,23 @@ a través de la carga sea I_L=5 mA, tal y como se muestra? Verifique los resulta
 
 ![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.9.PNG)
 
+
+11. Vea el circuito de la figura 9-85: a Encuentre el circuito equivalente de Thévenin externo a RL. 
+b. Use el circuito equivalente para determinar Vab cuando RL=20ohm y cuando RL=50ohm.
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.11.PNG)
+
+
+13. Vea el circuito de la figura 9-87: a. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas. 
+b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas.
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.13.PNG)
+
+15.Vea el circuito de la figura 9-89: a. Encuentre el circuito equivalente de Thévenin externo a las terminales que se indican.
+ b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas que se indican.
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.15.PNG)
+
 19. Repita el problema 17 para el circuito de la figura 9-93
 
 ![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio9.19.PNG)
