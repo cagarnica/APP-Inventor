@@ -15,6 +15,7 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
     resolución que se puede observar en el capitulo 10 del libro de estudio.
 
     Objetivos Específicos
+    
     - Entender la importancia de los teoremas en la resolución de cuestiones
     tanto teóricas como prácticas.
     - Comprender porque el principio de superposición es solo válido en
