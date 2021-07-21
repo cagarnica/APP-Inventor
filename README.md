@@ -8,7 +8,6 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
     Objetivo General 
 
-Analizar e identificar los teoremas de redes que tenemos para resolver circuitos complejos y sus distintas funciones mediante la práctica y resolucion de ejercicios 
 
     Objetivos Específicos
     - Entender la importancia de los teoremas en la resolución de cuestiones
@@ -199,6 +198,17 @@ ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aume
 
 ![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.27.PNG)
 ![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.27.2.PNG)
+
+29. Un capacitor de 30 μF se conecta en paralelo con un capacitor de 60 μF, y
+otro de 10 μF se conecta en serie con la combinación en paralelo. ¿Cuál es el
+valor de CT?
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.29.PNG)
+
+33. Se tienen capacitores de 22, 47, 2.2 y 10 μF. ¿Cuál es la capacitancia equivalente más grande 
+que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.33.PNG)
 
 35. Considere capacitores de 1, 1.5 y 10 μF. Si CT =10-6 μF, ¿cómo están conectados los capacitores?
 
