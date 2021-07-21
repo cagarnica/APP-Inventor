@@ -7,7 +7,12 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
 
     Objetivo General 
+    
+    - Analizar e Identificar los teoremas de redes mediante los distintos métodos de resolución que se tiene 
+    para resolver circuitos complejos para lograr mayor conocimiento con los temas trabajados. 
 
+    - Analizar el funcionamiento de los capacitores y su capacitancia de almacenar energía mediante los métodos de
+    resolución que se puede observar en el capitulo 10 del libro de estudio.
 
     Objetivos Específicos
     - Entender la importancia de los teoremas en la resolución de cuestiones
@@ -233,7 +238,7 @@ ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aume
 
 # 4. Video
 
-
+- https://youtu.be/W3meJW3OvpE
 
 # 5. Conclusiones
 
