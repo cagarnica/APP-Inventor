@@ -63,6 +63,8 @@ indican en la figura 9-87.
 
 b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivalente de Norton.
 
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.31.PNG)
+
 # 4. Video
 
 
