@@ -31,6 +31,15 @@ Objetivos Específicos
 
 ![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio9.19.PNG)
 
+21. Encuentre el circuito equivalente de Thévenin de la red externa a las ramas
+que se indican, como se muestra en la figura 9-95.
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio9.21.PNG)
+
+23. Repita el problema 22 para el circuito de la figura 9-97.
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.23.PNG)
+
 # 4. Video
 
 
