@@ -58,6 +58,11 @@ cuando RL  50 kΩ.
 
 ![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.29.PNG)
 
+31. a. Encuentre el circuito equivalente de Norton externo a las terminales que se
+indican en la figura 9-87.
+
+b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivalente de Norton.
+
 # 4. Video
 
 
