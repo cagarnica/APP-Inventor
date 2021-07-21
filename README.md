@@ -11,8 +11,8 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
     - Analizar e Identificar los teoremas de redes mediante los distintos métodos de resolución que se tiene 
     para resolver circuitos complejos para lograr mayor conocimiento con los temas trabajados. 
 
-    - Analizar el funcionamiento de los capacitores y su capacitancia de almacenar energía mediante los métodos de
-    resolución que se puede observar en el capitulo 10 del libro de estudio.
+    - Analizar el funcionamiento de los capacitores y su capacitancia de almacenar energía mediante los 
+    métodos de resolución que se puede observar en el capitulo 10 del libro de estudio.
 
     Objetivos Específicos
     
