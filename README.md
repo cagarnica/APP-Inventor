@@ -6,11 +6,16 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 # 1.Objetivos
 
 
-Objetivo General 
+    Objetivo General 
 
 
-Objetivos Específicos
-
+    Objetivos Específicos:
+    - Entender la importancia de los teoremas en la resolución de cuestiones tanto
+    teóricas como prácticas.
+    -Comprender porque el principio de superposición es solo válido en
+    sistemas lineales.
+    - Valorar la superposición en la resolución de circuitos lineales con
+    fuentes de distinto carácter.
 
 
 
