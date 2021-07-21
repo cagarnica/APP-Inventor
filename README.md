@@ -205,6 +205,10 @@ valor de CT?
 
 ![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.29.PNG)
 
+31. Para la figura 10-36, determine C3 y C4
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.31.PNG)
+
 33. Se tienen capacitores de 22, 47, 2.2 y 10 μF. ¿Cuál es la capacitancia equivalente más grande 
 que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
 
