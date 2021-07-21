@@ -23,11 +23,53 @@ Objetivos Específicos
  
 CAPITULO 9
 
+Teorema de superposición
+
+1.Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores 
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.1.PNG)
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.1%20B.PNG)
+
+Aplicando el principio de Superposición
+
+I1= 100 mA – 25 mA = 75 mA (hacia arriba) 
+I2=100 mA – 25 mA = 75 mA (hacia abajo)
+I3=50 mA+ 37.5mA=87,5 mA (hacia la derecha)
+ I3=50 mA -62,5 mA =-12,5 mA (Opuesto)
+
+3.Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.3%20A.PNG)
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.3%20B.PNG)
+
+Principio de Superposición 
+
+I60Ω = 56mA +28,5mA=84,5mA
+I10Ω=167mA+22mA=189mA
+I30Ω=111mA-733mA=103,67Ma
+
+Resultados 
+I1=I10=189mA
+Va=3,33V-0,22V=3,11V Polaridad Inversa
+
+
+5.En el circuito de la figura 9-79 ¿Cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente 
+a través de la carga sea I_L=5 mA, tal y como se muestra? Verifique los resultados mediante la superposición
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.5%20A.PNG)
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.5%20B.PNG)
+
+
 7.Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
 
 ![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%207%20-%20Cap9.PNG)
 
 9.Repita el problema 7 para el circuito de la figura 9-83.
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.9.PNG)
 
 19. Repita el problema 17 para el circuito de la figura 9-93
 
