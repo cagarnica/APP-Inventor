@@ -221,7 +221,6 @@ CAPITULO 10
 - Para poder usar correctamente el teorema de Millman tenemos que tener claro que sentido de corrientes vamos a usar y no cambiarlas constantemente.
 - Para hacer calculos con capacitores tenemos que sumar los capacitores si estan en paralelo o tenemos que sumar la inversa de los capacitores si estos están en serie.
 - Para encontrar el valor de voltajes e intensidades en los capacitores podemos usar la formula de divisores de voltaje o intensidad, similar a las que usamos en capitulos anteriores con las resistencias.
--   
 
 # 6. Bibliografia 
 
