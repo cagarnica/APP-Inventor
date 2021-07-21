@@ -16,6 +16,10 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
     sistemas lineales.
     - Valorar la superposición en la resolución de circuitos lineales con
     fuentes de distinto carácter.
+    - Analizar el uso del teorema de Millman con fuentes variables.
+    - Realizar calculos en circuitos que tengan como elementos capacitores.
+    - Comprender como se realizan los  análisis en circuitos series y paralelos con capacitores en el circuito.
+    
 
 
 
@@ -176,24 +180,6 @@ b. Demuestre que la reciprocidad se aplica en el circuito dado.
 
 CAPITULO 10 
 
-17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio 
-entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
-
-![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.17.PNG)
-
-21. Un capacitor de 25 μF tiene un coeficiente de temperatura negativo de 175
-ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?
-
-![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.21.PNG)
-
-23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 μF conectados en paralelo?
-
-![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.23.PNG)
-
-25. Repita el problema 23 si los capacitores están conectados en serie.
-
-![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.25.PNG)
-
 35. Considere capacitores de 1, 1.5 y 10 μF. Si CT =10-6 μF, ¿cómo están conectados los capacitores?
 
 37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b
@@ -231,7 +217,11 @@ ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aume
 - Los dos teoremas son muy útiles por que nos permite reducir una red de configuración compleja, en una de configuración sencilla.
 - En teorema de THEVENIN se concluye con la ley de Ohm para calcular la corriente circulante en una de las ramas.
 - En el teorema de NORTON, se concluye con el divisor de corriente para determinar la corriente circundante en una de las ramas.
- 
+- El teorema de Millman se puede usar para simplificar un diagrama cuando se posee mas de una fuente de voltaje, realizando un rediseño en el cual se unen todas las fuentes de voltaje.
+- Para poder usar correctamente el teorema de Millman tenemos que tener claro que sentido de corrientes vamos a usar y no cambiarlas constantemente.
+- Para hacer calculos con capacitores tenemos que sumar los capacitores si estan en paralelo o tenemos que sumar la inversa de los capacitores si estos están en serie.
+- Para encontrar el valor de voltajes e intensidades en los capacitores podemos usar la formula de divisores de voltaje o intensidad, similar a las que usamos en capitulos anteriores con las resistencias.
+-   
 
 # 6. Bibliografia 
 
