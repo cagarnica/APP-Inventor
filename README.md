@@ -50,10 +50,13 @@ figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
 ![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.27.PNG)
  
  29. Vea el circuito de la figura 9-85:
+ 
 a. Encuentre el circuito equivalente de Norton externo a RL.
+
 b. Use el circuito equivalente para determinar IL cuando RL  20 kΩ y
 cuando RL  50 kΩ.
 
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%209.29.PNG)
 
 # 4. Video
 
