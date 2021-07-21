@@ -21,7 +21,7 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
 # 2. Marco Teórico
 
-
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/TeoremaDeRedes.PNG)
 
 
 # 3. Explicación y Resolución
