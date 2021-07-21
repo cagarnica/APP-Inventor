@@ -176,6 +176,24 @@ b. Demuestre que la reciprocidad se aplica en el circuito dado.
 
 CAPITULO 10 
 
+17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio 
+entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.17.PNG)
+
+21. Un capacitor de 25 μF tiene un coeficiente de temperatura negativo de 175
+ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.21.PNG)
+
+23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 μF conectados en paralelo?
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.23.PNG)
+
+25. Repita el problema 23 si los capacitores están conectados en serie.
+
+![](https://github.com/mjvilla1/ImagenesInforme5/blob/main/Ejercicio%2010.25.PNG)
+
 35. Considere capacitores de 1, 1.5 y 10 μF. Si CT =10-6 μF, ¿cómo están conectados los capacitores?
 
 37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b
