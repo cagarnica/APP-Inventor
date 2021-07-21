@@ -240,6 +240,9 @@ ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aume
 - Los dos teoremas son muy útiles por que nos permite reducir una red de configuración compleja, en una de configuración sencilla.
 - En teorema de THEVENIN se concluye con la ley de Ohm para calcular la corriente circulante en una de las ramas.
 - En el teorema de NORTON, se concluye con el divisor de corriente para determinar la corriente circundante en una de las ramas.
+- El teorema de Millman tenemos que tener en claro como van las direcciones de intensidad y no cambiarlas constantemente.
+- Los capacitores para ser calculados podemos realizarlos en serie y paralelo, sumando los valores cuando estan en paralelo y sumando sus inversas en serie.
+- Para calcular los capacitores podemos hacer rediseños y usar los divisores de tension en el circuito.
  
 
 # 6. Bibliografia 
