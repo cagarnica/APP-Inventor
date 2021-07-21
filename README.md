@@ -8,8 +8,8 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
     Objetivo General 
 
-
 Analizar e identificar los teoremas de redes que tenemos para resolver circuitos complejos y sus distintas funciones mediante la práctica y resolucion de ejercicios 
+
     Objetivos Específicos
     - Entender la importancia de los teoremas en la resolución de cuestiones
     tanto teóricas como prácticas.
