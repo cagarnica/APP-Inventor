@@ -23,8 +23,14 @@ para la elaboración de aplicaciones destinadas al sistema operativo de Android.
 
 ## Conclusiones
 
-
+- App  Inventor  es  una  manera  excelente  de  iniciarse  en  el entorno Android y en el desarrollo de aplicaciones móviles.
+- A pesar de sus limitaciones, App Inventor permite hacer con relativa  facilidad  aplicaciones  que  requerirían  un  elevado 
+esfuerzo de programación en Android.
+- La posibilidad de testear las aplicaciones en tiempo real en el dispositivo móvil es una gran ventaja para el desarrollador. 
 
 ## Bibliografia 
 
+- http://www.appinventor.org/
+- http://www.tuappinvetorandroid.com/tutoriales/
+- http://soloelectronicos.com/tag/ejemplos-mit-app-inventor/
 
