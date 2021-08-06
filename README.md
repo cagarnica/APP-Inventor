@@ -16,9 +16,10 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS (ESPE)
 
 ## Desarrollo 
  
-Para poder entender mas sobre la aplicación que se va a realizar, tenemos que antes tener claro ciertos terminos. En este caso tenemos que 
-como principal tema, lo que seria, APP inventor, que vedria a ser: AppInventor es un entorno de desarrollo de software creado por Google 
-para la elaboración de aplicaciones destinadas al sistema operativo de Android.
+El lenguaje de programación que se usa en App Inventor está claramente inspirado en Scratch (desarrollado por el MIT), 
+por lo que el usuario puede ir enlazando una serie de piezas de puzzle para crear aplicaciones móviles.
+
+![](https://github.com/cagarnica/ImagenesProyec/blob/main/Img%201.PNG)
 
 
 ## Conclusiones
