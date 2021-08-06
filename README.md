@@ -11,7 +11,20 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS (ESPE)
 ## Tema 
  - Ejemplo para conexión de una APP Android desarrollada en APP INVENTOR con un servicio web.
 
-## Objetivos
+## Objetivo
+
+     Objetivo General:
+     
+     Construcir una propia aplicación para dispositivos Android con App Inventor y entender la funcionalidad de cada elemento de programación 
+     en App Inventor.
+     
+     
+     Obejtivos Especificos:
+     
+     1. Obtener nociones básicas sobre programación.
+     2. Conocer la herramienta de desarrollo App Inventor.
+     3. Elaborar una aplicación con la herramienta App Inventor.
+ 
 
 
 ## Desarrollo 
@@ -65,11 +78,12 @@ lleno todos los campos de texto y  para que  asi el boton 1 pueda cumplir con su
  para poder hacer el registro de nuevos vuelo y para poder tener mas datos si es que deseamos.
  
  ![](https://github.com/cagarnica/ImagenesProyec/blob/main/Parte5.PNG)
+ 
+- Como resultado final, podemos ver el que el programa funciona, no nos refleja ningun error. Lo unico que si tenemos que tomar en cuenta, es que, 
+solo tiene validez para usarse en un sistema opertativo android, ya que es el unico que nos permite descargar apps externa a la tienda virtual de 
+aplicaciones. Esta APP la podemos instalar con normalidad, mediante una APK o tambien mediante un código QR.
 
-
-
-
-
+![](https://github.com/cagarnica/ImagenesProyec/blob/main/Final.PNG)
 
 ## Conclusiones
 
