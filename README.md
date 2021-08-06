@@ -61,7 +61,8 @@ lleno todos los campos de texto y  para que  asi el boton 1 pueda cumplir con su
  
  ![](https://github.com/cagarnica/ImagenesProyec/blob/main/Parte4.PNG)
  
- - En la parte 5 y como ultimo, realizamos un botón llamado 3, el que es llamado como regresar. Este botón unicamente cumple con la función de 
+ - En la parte 5 y como ultimo, realizamos un botón llamado 3, el que es llamado como regresar. Este botón unicamente cumple con la función de hacerme volver a la pantalla 
+ para poder hacer el registro de nuevos vuelo y para poder tener mas datos si es que deseamos.
  
  ![](https://github.com/cagarnica/ImagenesProyec/blob/main/Parte5.PNG)
 
