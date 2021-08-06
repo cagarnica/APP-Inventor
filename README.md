@@ -21,6 +21,29 @@ por lo que el usuario puede ir enlazando una serie de piezas de puzzle para crea
 
 ![](https://github.com/cagarnica/ImagenesProyec/blob/main/Img%201.PNG)
 
+### Elementos basicos de APP INVENTOR 
+- Variables
+- Cadenas de texto
+- Estructuras de control
+- Listas
+- TinyDB
+
+Realizamos un ejemplo para poder entender sobre que y para que nos sirve. A continuación el ejemplo sobre una
+APP Android desarrollada en APP INVENTOR.
+
+El ejemplo el cual vamos a realizar, es sobre el registro de vuelos de avión. Se explicará paso a paso el desarrollo 
+de dicha aplicacion realizada en APP INVENTOR.
+
+Como paso 1 tenemos realizado una variable global, la cual va a realizar una lista, llamada vuelos, en donde vamos a poner una 
+lista la cual va estar vacía. Como siguiente, vamos a validar la visibilidad de las pantallas, ya que en este caso tenemos dos pantallas,
+las cuales, vamos hacer el ingreso de los vuelos y el registro de los vuelos. Podemos decir que cuando se inicialice la pantalla hace lo siguiente:
+la pantalla 1, que en este caso es contiene el ingreso de vuelos, la ponemos para que esta pantalla sea visible y la pantalla que contiene los 
+registros de vuelo lo ponemos para que no este visible, para que unicamente el usuario obtenga puede hacer el ingreso de los vuelos.
+
+![](https://github.com/cagarnica/ImagenesProyec/blob/main/Parte1.PNG)
+
+
+
 
 ## Conclusiones
 
