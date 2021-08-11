@@ -15,8 +15,8 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS (ESPE)
 
      Objetivo General:
      
-     Construcir una propia aplicación para dispositivos Android con App Inventor y entender la funcionalidad de cada elemento
-     de programación en App Inventor.
+     Construcir una propia aplicación para dispositivos Android con App Inventor y entender la funcionalidad 
+     de cada elemento de programación en App Inventor.
      
      
      Obejtivos Especificos:
