@@ -84,7 +84,8 @@ solo tiene validez para usarse en un sistema opertativo android, ya que es el un
 aplicaciones. Esta APP la podemos instalar con normalidad, mediante una APK o tambien mediante un código QR.
 
 ![](https://github.com/cagarnica/ImagenesProyec/blob/main/Final.PNG)
-##Anexos
+
+## Anexos
 
 - Diseño de la APP
 
