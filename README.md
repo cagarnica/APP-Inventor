@@ -84,6 +84,15 @@ solo tiene validez para usarse en un sistema opertativo android, ya que es el un
 aplicaciones. Esta APP la podemos instalar con normalidad, mediante una APK o tambien mediante un código QR.
 
 ![](https://github.com/cagarnica/ImagenesProyec/blob/main/Final.PNG)
+##Anexos
+
+- Diseño de la APP
+
+http://ai2.appinventor.mit.edu/#4828335690874880
+
+- Dirección del servicio web
+
+https://www.aeropuertoquito.aero/es/vuelos-internacionales/llegadas-internacionales.html
 
 ## Conclusiones
 
