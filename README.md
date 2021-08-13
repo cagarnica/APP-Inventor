@@ -79,18 +79,21 @@ lleno todos los campos de texto y  para que  asi el boton 1 pueda cumplir con su
  
  ![](https://github.com/cagarnica/ImagenesProyec/blob/main/Parte5.PNG)
  
- - En la parte 6, es esta parte tambien agregamos el WebViewer, para asi poderle hacer la parte del servicio web, que nos requirieron. En este caso, agregue 
- la página web del aeropuerto internacional de Quito, las llegadas y salidas de los vuelos. Después de la página web esta la parte del registro de vuelos que
- hicimos manuelmente.
- 
- ![]()
- 
-- Como resultado final, podemos ver el que el programa funciona, no nos refleja ningun error. Lo unico que si tenemos que tomar en cuenta, es que, 
+ - En la parte 6, podemos ver el que el programa funciona, no nos refleja ningun error. Lo unico que si tenemos que tomar en cuenta, es que, 
 solo tiene validez para usarse en un sistema opertativo android, ya que es el unico que nos permite descargar apps externa a la tienda virtual de 
 aplicaciones. Esta APP la podemos instalar con normalidad, mediante una APK o tambien mediante un código QR.
+ 
+ ![](https://github.com/cagarnica/ImagenesProyec/blob/main/Final.PNG)
+ 
+- Como resultado final, es esta parte tambien agregamos el WebViewer, para asi poderle hacer la parte del servicio web, que nos requirieron. En este caso, agregue 
+ la página web del aeropuerto internacional de Quito, las llegadas y salidas de los vuelos. Después de la página web esta la parte del registro de vuelos que
+ hicimos manuelmente.
 
-![](https://github.com/cagarnica/ImagenesProyec/blob/main/Final.PNG)
+![](https://github.com/cagarnica/ImagenesProyec/blob/main/Resultado1.jpeg)
 
+![](https://github.com/cagarnica/ImagenesProyec/blob/main/Resultado2.jpeg)
+
+![](https://github.com/cagarnica/ImagenesProyec/blob/main/Resultado2.jpeg)
 ## Anexos
 
 - Diseño de la APP
