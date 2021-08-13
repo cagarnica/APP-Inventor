@@ -88,12 +88,14 @@ aplicaciones. Esta APP la podemos instalar con normalidad, mediante una APK o ta
 - Como resultado final, es esta parte tambien agregamos el WebViewer, para asi poderle hacer la parte del servicio web, que nos requirieron. En este caso, agregue 
  la página web del aeropuerto internacional de Quito, las llegadas y salidas de los vuelos. Después de la página web esta la parte del registro de vuelos que
  hicimos manuelmente.
+ 
+ ![](https://github.com/cagarnica/ImagenesProyec/blob/main/WebViewer.png)
 
 ![](https://github.com/cagarnica/ImagenesProyec/blob/main/Resultado1.jpeg)
 
 ![](https://github.com/cagarnica/ImagenesProyec/blob/main/Resultado2.jpeg)
 
-![](https://github.com/cagarnica/ImagenesProyec/blob/main/Resultado2.jpeg)
+![](https://github.com/cagarnica/ImagenesProyec/blob/main/Resultado3.jpeg)
 ## Anexos
 
 - Diseño de la APP
